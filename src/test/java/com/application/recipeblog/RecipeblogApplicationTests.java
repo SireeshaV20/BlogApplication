@@ -1,9 +1,13 @@
-package com.application.BlogApplication;
+package com.application.recipeblog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-public class BlogApplicationTests {
-    // Test methods
+class RecipeblogApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
 }
